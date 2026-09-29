@@ -80,7 +80,7 @@ if __name__ == "__main__":
 
 ## 🖼️ Output
 
-![Hanuman Ji Art](hanumanji.png)
+![Hanuman Ji Art](hanumanji.jpg)
 
 ## ⚙️ Configuration
 
@@ -99,7 +99,6 @@ if __name__ == "__main__":
 Hanuman_Ji_art/
 ├── main.py             # Main script
 ├── hanumanji.jpg       # Sample image
-├── hanumanji.png       # Output screenshot
 ├── requirements.txt    # Dependencies
 ├── LICENSE             # MIT License
 └── README.md
