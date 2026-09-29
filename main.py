@@ -12,7 +12,7 @@ def draw_builtin_cursor(canvas, x, y):
     cv2.drawContours(canvas, [cursor_shape], 0, (255, 255, 255), 1)
     cv2.circle(canvas, pt1, 2, (0, 0, 255), -1)
 
-def part_by_part_draw_and_fill(image_path="animehanumanji.jpg", num_segments=18):
+def part_by_part_draw_and_fill(image_path="hanumanji.jpg", num_segments=18):
     img = cv2.imread(image_path)
     if img is None:
         raise FileNotFoundError(f"'{image_path}' not found!")
