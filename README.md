@@ -74,6 +74,10 @@ if __name__ == "__main__":
     part_by_part_draw_and_fill("your_image.jpg", num_segments=18)
 ```
 
+### OUTPUT
+[Hanuman_ji_art](/hanumanji.jpg)
+
+
 ### Controls
 
 | Key | Action |
@@ -126,11 +130,6 @@ Contributions are welcome!
 
 - GitHub: [@suman9834](https://github.com/suman9834)
 
-## 📄 License
-
-Released under the [MIT License](LICENSE).
-
----
 
 <div align="center">
 
