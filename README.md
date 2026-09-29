@@ -9,9 +9,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-required-013243?logo=numpy&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-<!-- Add a demo GIF or screenshot here -->
-<!-- ![Demo](assets/demo.gif) -->
-
 </div>
 
 ---
@@ -74,16 +71,16 @@ if __name__ == "__main__":
     part_by_part_draw_and_fill("your_image.jpg", num_segments=18)
 ```
 
-### OUTPUT
-[Hanuman_ji_art](/hanumanji.jpg)
-
-
 ### Controls
 
 | Key | Action |
 |-----|--------|
 | `Esc` | Stop the animation and close the window |
 | Any key | Close the window after the animation ends |
+
+## 🖼️ Output
+
+![Hanuman Ji Art](hanumanji.png)
 
 ## ⚙️ Configuration
 
@@ -102,6 +99,7 @@ if __name__ == "__main__":
 Hanuman_Ji_art/
 ├── main.py             # Main script
 ├── hanumanji.jpg       # Sample image
+├── hanumanji.png       # Output screenshot
 ├── requirements.txt    # Dependencies
 ├── LICENSE             # MIT License
 └── README.md
